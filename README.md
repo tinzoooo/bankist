@@ -1,1 +1,3 @@
-# bankist
+# Bankist
+
+Bank landing page
